@@ -2,7 +2,7 @@ name: Update Division2 JSON
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
+    - cron: "15 8 * * *"   # runs every 6 hours
   workflow_dispatch:         # allows manual run
 
 jobs:
