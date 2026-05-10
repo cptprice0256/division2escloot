@@ -1,0 +1,273 @@
+{
+  "Escalation": [
+    {
+      "week": "2026-03-31",
+      "missions": [
+        "The Art Museum",
+        "Grand Washington Hotel",
+        "Jefferson Plaza",
+        "Potomac Event Center",
+        "Coney Island Ballpark"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-07",
+      "missions": [
+        "Army Terminal",
+        "Bank Headquarters",
+        "Space Administration HQ",
+        "Roosevelt Island",
+        "Coney Island Amusement Park"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-14",
+      "missions": [
+        "Liberty Island",
+        "Capitol Building",
+        "Federal Emergency Bunker",
+        "ViewPoint Museum",
+        "Manning National Zoo"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-21",
+      "missions": [
+        "The Art Museum",
+        "Manning National Zoo",
+        "Camp White Oak",
+        "The Pentagon",
+        "DARPA Research Labs"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-04-21",
+          "target_loot": [
+            "Murakami Industries",
+            "Ortiz: Exuro",
+            "Habsburg Guard",
+            "Zwiadowka Sp.z o.o.",
+            "Striker's Battlegear"
+          ]
+        },
+        {
+          "day": "2026-04-22",
+          "target_loot": [
+            "Tip of the Spear",
+            "Golan Gear Ltd",
+            "Grupo Sombra S.A.",
+            "shotgun",
+            "Ongoing Directive"
+          ]
+        },
+        {
+          "day": "2026-04-23",
+          "target_loot": [
+            "Concentrated Company",
+            "Umbra Initiative",
+            "Hotshot",
+            "Overlord Armaments",
+            "Petrov Defense Group"
+          ]
+        },
+        {
+          "day": "2026-04-24",
+          "target_loot": [
+            "Alps Summit Armaments",
+            "shotgun",
+            "gloves",
+            "mask",
+            "Royal Works"
+          ]
+        },
+        {
+          "day": "2026-04-25",
+          "target_loot": [
+            "Umbra Initiative",
+            "Electrique",
+            "Virtuoso",
+            "Uzina Getica",
+            "Measured Assembly"
+          ]
+        },
+        {
+          "day": "2026-04-26",
+          "target_loot": [
+            "Heartbreaker",
+            "Tip of the Spear",
+            "Česká Výroba s.r.o.",
+            "gloves",
+            "True Patriot"
+          ]
+        },
+        {
+          "day": "2026-04-27",
+          "target_loot": [
+            "Belstone Armory",
+            "Zwiadowka Sp.z o.o.",
+            "Airaldi Holdings",
+            "smg",
+            "China Light Industries Corporation"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "2026-04-28",
+      "missions": [
+        "Stranded Tanker",
+        "ViewPoint Museum",
+        "Jefferson Trade Center",
+        "Bank Headquarters",
+        "DCD Headquarters"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-04-28",
+          "target_loot": [
+            "Ortiz: Exuro",
+            "Rigger",
+            "Palisade Steelworks",
+            "Česká Výroba s.r.o.",
+            "Gear MOD"
+          ]
+        },
+        {
+          "day": "2026-04-29",
+          "target_loot": [
+            "Negotiator's Dilemma",
+            "lmg",
+            "Sokolov Concern",
+            "Umbra Initiative",
+            "Hana-U Corporation"
+          ]
+        },
+        {
+          "day": "2026-04-30",
+          "target_loot": [
+            "Umbra Initiative",
+            "Legatus S.p.A.",
+            "Habsburg Guard",
+            "Refactor",
+            "Unit Alloys"
+          ]
+        },
+        {
+          "day": "2026-05-01",
+          "target_loot": [
+            "5.11 Tactical",
+            "Measured Assembly",
+            "Negotiator's Dilemma",
+            "Foundry Bulwark",
+            "Ongoing Directive"
+          ]
+        },
+        {
+          "day": "2026-05-02",
+          "target_loot": [
+            "Brazos de Arcabuz",
+            "Fenris Group AB",
+            "Breaking Point",
+            "Airaldi Holdings",
+            "Electrique"
+          ]
+        },
+        {
+          "day": "2026-05-03",
+          "target_loot": [
+            "mask",
+            "Ortiz: Exuro",
+            "Legatus S.p.A.",
+            "Brazos de Arcabuz",
+            "ar"
+          ]
+        },
+        {
+          "day": "2026-05-04",
+          "target_loot": [
+            "backpack",
+            "Measured Assembly",
+            "Empress International",
+            "Uzina Getica",
+            "shotgun"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "2026-05-05",
+      "missions": [
+        "The Tombs",
+        "Manning National Zoo",
+        "Bank Headquarters",
+        "American History Museum",
+        "Space Administration HQ"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-05-05",
+          "target_loot": [
+            "Lengmo",
+            "Negotiator's Dilemma",
+            "pistol",
+            "Measured Assembly",
+            "kneepads"
+          ]
+        },
+        {
+          "day": "2026-05-06",
+          "target_loot": [
+            "Walker, Harris & Co.",
+            "Hard Wired",
+            "Core Strength",
+            "Aces & Eights",
+            "Hana-U Corporation"
+          ]
+        },
+        {
+          "day": "2026-05-07",
+          "target_loot": [
+            "Petrov Defense Group",
+            "Urban Lookout",
+            "True Patriot",
+            "Breaking Point",
+            "Providence Defense"
+          ]
+        },
+        {
+          "day": "2026-05-08",
+          "target_loot": [
+            "Refactor",
+            "Hana-U Corporation",
+            "gloves",
+            "Umbra Initiative",
+            "Česká Výroba s.r.o."
+          ]
+        },
+        {
+          "day": "2026-05-09",
+          "target_loot": [
+            "Umbra Initiative",
+            "holster",
+            "Aegis",
+            "Tipping Scales",
+            "pistol"
+          ]
+        },
+        {
+          "day": "2026-05-10",
+          "target_loot": [
+            "mmr",
+            "Brazos de Arcabuz",
+            "Electrique",
+            "Royal Works",
+            "Hotshot"
+          ]
+        }
+      ]
+    }
+  ]
+}
