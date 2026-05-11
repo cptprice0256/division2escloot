@@ -266,6 +266,16 @@
             "Royal Works",
             "Hotshot"
           ]
+        },
+        {
+          "day": "2026-05-11",
+          "target_loot": [
+            "Tip of the Spear",
+            "Core Strength",
+            "kneepads",
+            "Petrov Defense Group",
+            "holster"
+          ]
         }
       ]
     }
