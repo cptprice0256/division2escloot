@@ -1,316 +1,349 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="refresh" content="0; url=https://docs.github.com/pages" />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <link type="text/css" href="/css/pages.css" media="all" rel="stylesheet">
-
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="GitHub Pages" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." />
-<meta property="og:description" content="Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." />
-<link rel="canonical" href="https://pages.github.com/" />
-<meta property="og:url" content="https://pages.github.com/" />
-<meta property="og:site_name" content="GitHub Pages" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="GitHub Pages" />
-<meta name="twitter:site" content="@github" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.","headline":"GitHub Pages","name":"GitHub Pages","url":"https://pages.github.com/"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body class="home ">
-
-
-<section id="hero-spot" class="hero-spot">
-    <a href="/"><img src="/images/logo.svg" alt="GitHub Pages" class="logo" /></a>
-
-    <h1>Websites for you and your projects.</h1>
-    <h2>Hosted directly from your <a href="https://github.com">GitHub repository</a>. Just edit, push, and your changes are live.</h2>
-
-    <a href="https://help.github.com/pages/" class="help-link">Pages Help</a>
-
-    <div id="slideshow">
-      <img src="/images/slideshow/bootstrap.png" alt="Bootstrap" class="slide active" width="893" />
-    </div>
-</section>
-
-<section id="tutorial" class="tutorial">
-  <h1>Ready to get started? Build your own site from scratch or generate one for your project.</h1>
-  <h2>You get one site per GitHub account and organization, <br />and unlimited project sites. Let‘s get started.</h2>
-
-  <ul class="tabs">
-    <li><a href="#user-site" class="selected">User or organization site</a></li>
-    <li><a href="#project-site">Project site</a></li>
-  </ul>
-
-  <!-- ### Start of tutorials -->
-  <ul id="user-site" class="tutorial-list wrapper active">
-    <li id="create-repo-step" class="image-right">
-      <h4>Create a repository</h4>
-      <p>Head over to <a href="https://github.com">GitHub</a> and <a data-proofer-ignore="true" href="https://github.com/new">create a new public repository</a> named <em>username</em>.github.io, where <em>username</em> is your username (or organization name) on GitHub.</p>
-
-      <p class="details">If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.</p>
-    </li>
-
-    <li class="question">
-      <h4>What git client are you using?</h4>
-      <ul class="tabs">
-        <li><a id="option-terminal" href="#terminal-step-1" class="selected">A terminal</a></li>
-        <li><a id="option-desktop" href="#setup-in-desktop">GitHub Desktop</a></li>
-        <li><a id="option-newuser" href="#new-user-step-1">I don't know</a></li>
-      </ul>
-    </li>
-
-    <li id="new-user-step-1" class="option-newuser">
-      <h4>Download GitHub Desktop</h4>
-      <p>GitHub Desktop is a great way to use Git and GitHub on macOS and Windows.</p>
-
-      <a class="desktop-download" href="https://desktop.github.com"><span class="icon"></span>Download GitHub Desktop</a>
-
-      <img src="images/dashboard@2x.png" width="1054" alt="GitHub Desktop screenshot" class="full-size" />
-    </li>
-
-    <li id="terminal-step-1" class="option-terminal">
-      <h4>Clone the repository</h4>
-      <p>Go to the folder where you want to store your project, and clone the new repository:</p>
-
-      <div class="terminal">
-        <div class="header"></div>
-        <div class="shell">
-          <p><span class="path">~</span><span class="prompt">$</span>git clone https://github.com/<em>username</em>/<em>username</em>.github.io</p>
-        </div>
-      </div>
-    </li>
-
-    <li id="setup-in-desktop" class="option-desktop image-right">
-      <h4>Clone the repository</h4>
-      <p>Click the "Set up in Desktop" button. When the GitHub desktop app opens, save the project.</p>
-
-      <p class="details">If the app doesn't open, launch it and clone the repository from the app.</p>
-    </li>
-
-    <li id="setup-in-desktop" class="option-newuser image-right">
-      <h4>Clone the repository</h4>
-      <p>After finishing the installation, head back to GitHub.com and refresh the page. Click the "Set up in Desktop" button. When the GitHub desktop app opens, save the project.</p>
-
-      <p class="details">If the app doesn't open, launch it and clone the repository from the app.</p>
-    </li>
-
-    <li class="option-terminal">
-      <h4>Hello World</h4>
-      <p>Enter the project folder and add an index.html file:</p>
-
-      <div class="terminal">
-        <div class="header"></div>
-        <div class="shell">
-          <p><span class="path">~</span><span class="prompt">$</span>cd <em>username</em>.github.io</p>
-          <p><span class="path">~</span><span class="prompt">$</span>echo "Hello World" > index.html</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="option-desktop option-newuser">
-      <h4>Create an index file</h4>
-      <p>Grab your favorite text editor and add an index.html file to your project:</p>
-
-      <div class="terminal">
-        <div class="header">index.html</div>
-        <code class="shell">
-          <pre>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;body&gt;
-&lt;h1&gt;Hello World&lt;/h1&gt;
-&lt;p&gt;I'm hosted with GitHub Pages.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</pre>
-      </code>
-    </li>
-
-    <li class="option-terminal">
-      <h4>Push it</h4>
-      <p>Add, commit, and push your changes:</p>
-
-      <div class="terminal">
-        <div class="header"></div>
-        <div class="shell">
-          <p><span class="path">~</span><span class="prompt">$</span>git add --all</p>
-          <p><span class="path">~</span><span class="prompt">$</span>git commit -m "Initial commit"</p>
-          <p><span class="path">~</span><span class="prompt">$</span>git push -u origin main</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="option-desktop option-newuser">
-      <h4>Commit &amp; publish</h4>
-
-      <p>Enter the repository, commit your changes, and press the publish button.</p>
-
-      <img src="images/desktop-demo@2x.gif" width="841" alt="Demonstration of steps required to create the initial commit and publish the repository in GitHub Desktop" class="macos-drop-shadow" />
-    </li>
-
-    <li class="option-all">
-      <h4>…and you're done!</h4>
-      <p>Fire up a browser and go to <strong>https://<em>username</em>.github.io</strong>.</p>
-      <div class="hero-octicon">
-        <span class="mega-octicon octicon-check"></span>
-      </div>
-    </li>
-  </ul>
-  <!-- End of user site tutorial -->
-
-  <!-- Project Site tutorial -->
-  <ul id="project-site" class="tutorial-list wrapper">
-    <li class="question">
-      <h4>Use a theme, or start from scratch?</h4>
-      <p>You have the option to start with one of the pre-built themes,
-        <br>or to create a site from scratch.
-      <ul class="tabs">
-        <li><a id="option-generate" href="#generate-step-1" class="selected">Choose a theme</a></li>
-        <li><a id="option-vanilla" href="#vanilla-step-1">Start from scratch</a></li>
-      </ul>
-    </li>
-
-    <li id="generate-step-1" class="option-generate">
-      <h4>Repository Settings</h4>
-      <p>Head over to <a href="https://github.com/">GitHub.com</a> and create a new repository, or go to an existing one.
-        <br><strong>Click on the Settings tab</strong>.</p>
-
-      <img src="images/repo-settings@2x.png" width="720" alt="Settings for a repository" />
-    </li>
-
-    <li class="option-generate">
-      <h4>Theme chooser</h4>
-      <p>Scroll down to the <strong>GitHub Pages</strong> section. Press <strong>Choose a theme</strong>.</p>
-      <img src="images/launch-theme-chooser@2x.png" width="720" alt="Automatic Generator button on GitHub.com, Settings" />
-    </li>
-
-    <li class="option-generate">
-      <h4>Pick a theme</h4>
-      <p>Choose one of the themes from the carousel at the top.
-      <br>When you're done, click <strong>Select theme</strong> on the right.</p>
-
-      <img src="images/theme-chooser@2x.png" class="full-size" width="720" alt="Choose layout" />
-    </li>
-
-    <li class="option-generate">
-      <h4>Edit content</h4>
-      <p>Use the editor to add content to your site.</p>
-      <img class="full-size" src="images/code-editor@2x.png" width="720" alt="Add content to your GitHub Pages site" />
-    </li>
-
-    <li class="option-generate">
-      <h4>Commit</h4>
-      <p>Enter a commit comment and click on <strong>Commit changes</strong> below the editor.</p>
-      <img class="full-size" src="images/commit-edits@2x.png" width="720" alt="Commit Markdown content to your repository" />
-    </li>
-
-    <!-- Start of vanilla sub tutorial -->
-    <li id="vanilla-step-1" class="option-vanilla">
-      <h4>Create an index file</h4>
-      <p>Head over to <a href="https://github.com/">GitHub.com</a> and <a data-proofer-ignore="true" href="https://github.com/new">create a new repository</a>, or go to an existing one.
-      <br />Click on the <strong>Create new file</strong> button.</p>
-
-      <img src="images/new-create-file@2x.png" width="720" alt="Create a file in your repository" />
-    </li>
-
-    <li class="option-vanilla">
-      <h4>Hello World</h4>
-      <p>Name the file <code>index.html</code> and type some HTML content into the editor.</p>
-
-      <img src="images/new-index-html@2x.png" width="720" alt="Hello World on GitHub.com" />
-    </li>
-
-    <li class="option-vanilla">
-      <h4>Commit the file</h4>
-      <p>Scroll to the bottom of the page, write a commit message, and commit the new file.</p>
-
-      <img src="images/new-commit-file@2x.png" width="720" alt="Commit the file" />
-    </li>
-
-    <li class="option-vanilla">
-      <h4>Repository Settings</h4>
-      <p><strong>Click on the Settings tab</strong> and scroll down to the GitHub Pages section.
-      <br />Then select the <strong>main branch</strong> source and click on the <strong>Save</strong> button.</p>
-
-      <img src="images/source-setting@2x.png" width="720" alt="GitHub Pages Source Setting" />
-    </li>
-
-    <li class="option-all">
-      <h4>…and you're done!</h4>
-      <p>Fire up a browser and go to <strong>http://<em>username</em>.github.io/<em>repository</em></strong>.</p>
-      <div class="hero-octicon">
-        <span class="mega-octicon octicon-check"></span>
-      </div>
-    </li>
-  </ul>
-
-</section>
-<!-- End of tutorial section -->
-
-<section id="next-steps">
-  <h1>Now that you’re up and running, here are a few things you should know.</h1>
-
-  <ul class="next-steps wrapper">
-    <li class="jekyll">
-      <a class="hero-octicon" href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll">
-        <span class="mega-octicon octicon-pencil"></span>
-      </a>
-      <h4><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll">Blogging with Jekyll</a></h4>
-      <p>Using <a href="https://jekyllrb.com">Jekyll</a>, you can blog using beautiful Markdown syntax, and without having to deal with any databases. <a href="https://jekyllrb.com/docs/">Learn how to set up Jekyll</a>.</p>
-    </li>
-    <li class="custom-urls">
-      <a class="hero-octicon" href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site">
-        <span class="mega-octicon octicon-link"></span>
-      </a>
-      <h4><a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site">Custom URLs</a></h4>
-      <p>Want to use your own custom domain for a GitHub Pages site? Just create a file named CNAME  and include your URL. <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site">Read more</a>.</p>
-    </li>
-    <li class="guides">
-      <a class="hero-octicon" href="https://docs.github.com/pages">
-        <span class="mega-octicon octicon-book"></span>
-      </a>
-      <h4><a href="https://docs.github.com/pages">Guides</a></h4>
-      <p>Learn how to create custom 404 pages, use submodules, and <a href="https://docs.github.com/pages">learn more about GitHub Pages</a>.</p>
-    </li>
-  </ul>
-</section>
-
-<script src="/js/jquery.js"></script>
-<script>window.slides = {"bootstrap":"Bootstrap","yeoman":"Yeoman","facebookdesign":"Facebook Design","foundation":"Foundation","ghtraining":"GitHub Training","adobeos":"Adobe Open Source","jekyllrb":"Jekyll","electron":"Electron","semanticui":"Semantic UI","microsoft":"Microsoft on GitHub"}</script>
-<script src="/js/application.js"></script>
-
-
-<footer class="page-footer">
-  <ul class="site-footer-links right">
-    <li><a href="https://www.githubstatus.com/">Status</a></li>
-    <li><a href="https://docs.github.com/rest">API</a></li>
-    <li><a href="https://training.github.com">Training</a></li>
-    <li><a href="https://shop.github.com">Shop</a></li>
-    <li><a href="https://github.blog">Blog</a></li>
-    <li><a href="https://github.com/about">About</a></li>
-  </ul>
-
-  <a href="/">
-    <span class="mega-octicon octicon-mark-github"></span>
-  </a>
-
-  <ul class="site-footer-links">
-    <li>&copy; 2025 <span>GitHub</span>, Inc.</li>
-    <li><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">Terms</a></li>
-    <li><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">Privacy</a></li>
-    <li><a href="https://github.com/security">Security</a></li>
-    <li><a href="https://support.github.com">Contact</a></li>
-  </ul>
-</footer>
-
-</body>
-</html>
-
+{
+  "Escalation": [
+    {
+      "week": "2026-03-31",
+      "missions": [
+        "The Art Museum",
+        "Grand Washington Hotel",
+        "Jefferson Plaza",
+        "Potomac Event Center",
+        "Coney Island Ballpark"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-07",
+      "missions": [
+        "Army Terminal",
+        "Bank Headquarters",
+        "Space Administration HQ",
+        "Roosevelt Island",
+        "Coney Island Amusement Park"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-14",
+      "missions": [
+        "Liberty Island",
+        "Capitol Building",
+        "Federal Emergency Bunker",
+        "ViewPoint Museum",
+        "Manning National Zoo"
+      ],
+      "target_loot_by_day": []
+    },
+    {
+      "week": "2026-04-21",
+      "missions": [
+        "The Art Museum",
+        "Manning National Zoo",
+        "Camp White Oak",
+        "The Pentagon",
+        "DARPA Research Labs"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-04-21",
+          "target_loot": [
+            "Murakami Industries",
+            "Ortiz: Exuro",
+            "Habsburg Guard",
+            "Zwiadowka Sp.z o.o.",
+            "Striker's Battlegear"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-22",
+          "target_loot": [
+            "Tip of the Spear",
+            "Golan Gear Ltd",
+            "Grupo Sombra S.A.",
+            "shotgun",
+            "Ongoing Directive"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-23",
+          "target_loot": [
+            "Concentrated Company",
+            "Umbra Initiative",
+            "Hotshot",
+            "Overlord Armaments",
+            "Petrov Defense Group"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-24",
+          "target_loot": [
+            "Alps Summit Armaments",
+            "shotgun",
+            "gloves",
+            "mask",
+            "Royal Works"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-25",
+          "target_loot": [
+            "Umbra Initiative",
+            "Electrique",
+            "Virtuoso",
+            "Uzina Getica",
+            "Measured Assembly"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-26",
+          "target_loot": [
+            "Heartbreaker",
+            "Tip of the Spear",
+            "Česká Výroba s.r.o.",
+            "gloves",
+            "True Patriot"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-27",
+          "target_loot": [
+            "Belstone Armory",
+            "Zwiadowka Sp.z o.o.",
+            "Airaldi Holdings",
+            "smg",
+            "China Light Industries Corporation"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        }
+      ]
+    },
+    {
+      "week": "2026-04-28",
+      "missions": [
+        "Stranded Tanker",
+        "ViewPoint Museum",
+        "Jefferson Trade Center",
+        "Bank Headquarters",
+        "DCD Headquarters"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-04-28",
+          "target_loot": [
+            "Ortiz: Exuro",
+            "Rigger",
+            "Palisade Steelworks",
+            "Česká Výroba s.r.o.",
+            "Gear MOD"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-29",
+          "target_loot": [
+            "Negotiator's Dilemma",
+            "lmg",
+            "Sokolov Concern",
+            "Umbra Initiative",
+            "Hana-U Corporation"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-04-30",
+          "target_loot": [
+            "Umbra Initiative",
+            "Legatus S.p.A.",
+            "Habsburg Guard",
+            "Refactor",
+            "Unit Alloys"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-01",
+          "target_loot": [
+            "5.11 Tactical",
+            "Measured Assembly",
+            "Negotiator's Dilemma",
+            "Foundry Bulwark",
+            "Ongoing Directive"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-02",
+          "target_loot": [
+            "Brazos de Arcabuz",
+            "Fenris Group AB",
+            "Breaking Point",
+            "Airaldi Holdings",
+            "Electrique"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-03",
+          "target_loot": [
+            "mask",
+            "Ortiz: Exuro",
+            "Legatus S.p.A.",
+            "Brazos de Arcabuz",
+            "ar"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-04",
+          "target_loot": [
+            "backpack",
+            "Measured Assembly",
+            "Empress International",
+            "Uzina Getica",
+            "shotgun"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        }
+      ]
+    },
+    {
+      "week": "2026-05-05",
+      "missions": [
+        "The Tombs",
+        "Manning National Zoo",
+        "Bank Headquarters",
+        "American History Museum",
+        "Space Administration HQ"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-05-05",
+          "target_loot": [
+            "Lengmo",
+            "Negotiator's Dilemma",
+            "pistol",
+            "Measured Assembly",
+            "kneepads"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-06",
+          "target_loot": [
+            "Walker, Harris & Co.",
+            "Hard Wired",
+            "Core Strength",
+            "Aces & Eights",
+            "Hana-U Corporation"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-07",
+          "target_loot": [
+            "Petrov Defense Group",
+            "Urban Lookout",
+            "True Patriot",
+            "Breaking Point",
+            "Providence Defense"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-08",
+          "target_loot": [
+            "Refactor",
+            "Hana-U Corporation",
+            "gloves",
+            "Umbra Initiative",
+            "Česká Výroba s.r.o."
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-09",
+          "target_loot": [
+            "Umbra Initiative",
+            "holster",
+            "Aegis",
+            "Tipping Scales",
+            "pistol"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-10",
+          "target_loot": [
+            "mmr",
+            "Brazos de Arcabuz",
+            "Electrique",
+            "Royal Works",
+            "Hotshot"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        },
+        {
+          "day": "2026-05-11",
+          "target_loot": [
+            "Tip of the Spear",
+            "Core Strength",
+            "kneepads",
+            "Petrov Defense Group",
+            "holster"
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        }
+      ]
+    },
+    {
+      "week": "2026-05-12",
+      "missions": [
+        "Pathway Park",
+        "Camp White Oak",
+        "Grand Washington Hotel",
+        "Jefferson Trade Center",
+        "Federal Emergency Bunker"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-05-12",
+          "target_loot": [
+            "Unit Alloys",
+            "Ongoing Directive",
+            "Imminence Armaments",
+            "Striker's Battlegear",
+            "Measured Assembly"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "shotgun"
+        }
+      ]
+    }
+  ]
+}
