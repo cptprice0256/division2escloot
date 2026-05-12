@@ -22,7 +22,7 @@ jobs:
       - name: Fetch latest JSON
         run: |
           mkdir -p data/event
-          curl -L "github.io" -o data/event/index.json
+          curl -L "https://hi-dep.github.io/division2/data/event/index.json" -o data/event/index.json
 
       - name: Commit and push
         run: |
