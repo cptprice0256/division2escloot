@@ -2,27 +2,32 @@ name: Update Division2 JSON
 
 on:
   schedule:
-    - cron: "11 8 * * *"   
-  workflow_dispatch:         # allows manual run
+    - cron: "11 8 * * *"
+  workflow_dispatch:      # Allows manual trigger via the GitHub UI Web Interface
+  repository_dispatch:    # Allows manual remote triggers via your Google Apps Script API call
+    types: [manual_loot_sync]
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    
+    # Grants the workflow native write permissions to commit changes back to your repository
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch latest JSON
         run: |
           mkdir -p data/event
-          curl -L "https://hi-dep.github.io/division2/data/event/index.json" -o data/event/index.json
+          curl -L "github.io" -o data/event/index.json
 
       - name: Commit and push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@github.com"
           git add data/event/index.json
           git commit -m "Update JSON feed" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push
