@@ -51,7 +51,9 @@
             "Habsburg Guard",
             "Zwiadowka Sp.z o.o.",
             "Striker's Battlegear"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-22",
@@ -61,7 +63,9 @@
             "Grupo Sombra S.A.",
             "shotgun",
             "Ongoing Directive"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-23",
@@ -71,7 +75,9 @@
             "Hotshot",
             "Overlord Armaments",
             "Petrov Defense Group"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-24",
@@ -81,7 +87,9 @@
             "gloves",
             "mask",
             "Royal Works"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-25",
@@ -91,7 +99,9 @@
             "Virtuoso",
             "Uzina Getica",
             "Measured Assembly"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-26",
@@ -101,7 +111,9 @@
             "Česká Výroba s.r.o.",
             "gloves",
             "True Patriot"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-27",
@@ -111,7 +123,9 @@
             "Airaldi Holdings",
             "smg",
             "China Light Industries Corporation"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         }
       ]
     },
@@ -133,7 +147,9 @@
             "Palisade Steelworks",
             "Česká Výroba s.r.o.",
             "Gear MOD"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-29",
@@ -143,7 +159,9 @@
             "Sokolov Concern",
             "Umbra Initiative",
             "Hana-U Corporation"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-04-30",
@@ -153,7 +171,9 @@
             "Habsburg Guard",
             "Refactor",
             "Unit Alloys"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-01",
@@ -163,7 +183,9 @@
             "Negotiator's Dilemma",
             "Foundry Bulwark",
             "Ongoing Directive"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-02",
@@ -173,7 +195,9 @@
             "Breaking Point",
             "Airaldi Holdings",
             "Electrique"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-03",
@@ -183,7 +207,9 @@
             "Legatus S.p.A.",
             "Brazos de Arcabuz",
             "ar"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-04",
@@ -193,7 +219,9 @@
             "Empress International",
             "Uzina Getica",
             "shotgun"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         }
       ]
     },
@@ -215,7 +243,9 @@
             "pistol",
             "Measured Assembly",
             "kneepads"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-06",
@@ -225,7 +255,9 @@
             "Core Strength",
             "Aces & Eights",
             "Hana-U Corporation"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-07",
@@ -235,7 +267,9 @@
             "True Patriot",
             "Breaking Point",
             "Providence Defense"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-08",
@@ -245,7 +279,9 @@
             "gloves",
             "Umbra Initiative",
             "Česká Výroba s.r.o."
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-09",
@@ -255,7 +291,9 @@
             "Aegis",
             "Tipping Scales",
             "pistol"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-10",
@@ -265,7 +303,9 @@
             "Electrique",
             "Royal Works",
             "Hotshot"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
         },
         {
           "day": "2026-05-11",
@@ -275,7 +315,33 @@
             "kneepads",
             "Petrov Defense Group",
             "holster"
-          ]
+          ],
+          "prototype_gear_cache": "",
+          "prototype_weapon_cache": ""
+        }
+      ]
+    },
+    {
+      "week": "2026-05-12",
+      "missions": [
+        "Pathway Park",
+        "Camp White Oak",
+        "Grand Washington Hotel",
+        "Jefferson Trade Center",
+        "Federal Emergency Bunker"
+      ],
+      "target_loot_by_day": [
+        {
+          "day": "2026-05-12",
+          "target_loot": [
+            "Unit Alloys",
+            "Ongoing Directive",
+            "Imminence Armaments",
+            "Striker's Battlegear",
+            "Measured Assembly"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
