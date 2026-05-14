@@ -354,6 +354,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-05-14",
+          "target_loot": [
+            "Urban Lookout",
+            "Virtuoso",
+            "Česká Výroba s.r.o.",
+            "ar",
+            "shotgun"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
