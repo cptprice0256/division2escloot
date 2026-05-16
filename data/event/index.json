@@ -1,5 +1,5 @@
 {
-  "Escalation":  [
+  "Escalation": [
     {
       "week": "2026-05-12",
       "missions": [
@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-05-16",
+          "target_loot": [
+            "Tip of the Spear",
+            "lmg",
+            "pistol",
+            "kneepads",
+            "Richter & Kaiser GmbH"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
