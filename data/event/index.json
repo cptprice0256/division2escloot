@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-05-17",
+          "target_loot": [
+            "Gear MOD",
+            "Heartbreaker",
+            "Belstone Armory",
+            "Hunter's Fury",
+            "ar"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
