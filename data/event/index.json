@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-05-18",
+          "target_loot": [
+            "Grupo Sombra S.A.",
+            "Wyvern Wear",
+            "Hard Wired",
+            "Gila Guard",
+            "Tipping Scales"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
