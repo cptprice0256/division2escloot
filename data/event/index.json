@@ -1,97 +1,25 @@
 {
   "Escalation": [
     {
-      "week": "2026-05-12",
+      "week": "2026-05-19",
       "missions": [
-        "Pathway Park",
-        "Camp White Oak",
-        "Grand Washington Hotel",
-        "Jefferson Trade Center",
-        "Federal Emergency Bunker"
+        "The Pentagon",
+        "DARPA Research Labs",
+        "District Union Arena",
+        "Roosevelt Island",
+        "Space Administration HQ"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-05-12",
+          "day": "2026-05-19",
           "target_loot": [
-            "Unit Alloys",
+            "Negotiator's Dilemma",
+            "Cavalier",
             "Ongoing Directive",
-            "Imminence Armaments",
-            "Striker's Battlegear",
-            "Measured Assembly"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-05-13",
-          "target_loot": [
-            "Badger Tuff",
-            "Airaldi Holdings",
             "5.11 Tactical",
-            "Legatus S.p.A.",
-            "backpack"
+            "Walker, Harris & Co."
           ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-05-14",
-          "target_loot": [
-            "Urban Lookout",
-            "Virtuoso",
-            "Česká Výroba s.r.o.",
-            "ar",
-            "shotgun"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-05-15",
-          "target_loot": [
-            "Palisade Steelworks",
-            "Breaking Point",
-            "shotgun",
-            "Habsburg Guard",
-            "Empress International"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-05-16",
-          "target_loot": [
-            "Tip of the Spear",
-            "lmg",
-            "pistol",
-            "kneepads",
-            "Richter & Kaiser GmbH"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-05-17",
-          "target_loot": [
-            "Gear MOD",
-            "Heartbreaker",
-            "Belstone Armory",
-            "Hunter's Fury",
-            "ar"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-05-18",
-          "target_loot": [
-            "Grupo Sombra S.A.",
-            "Wyvern Wear",
-            "Hard Wired",
-            "Gila Guard",
-            "Tipping Scales"
-          ],
-          "prototype_gear_cache": "mask",
+          "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "rifle"
         }
       ]
