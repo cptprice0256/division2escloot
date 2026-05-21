@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-05-21",
+          "target_loot": [
+            "pistol",
+            "Breaking Point",
+            "Core Strength",
+            "Concentrated Company",
+            "lmg"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
