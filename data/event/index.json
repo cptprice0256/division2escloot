@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-05-22",
+          "target_loot": [
+            "Gear MOD",
+            "Empress International",
+            "Badger Tuff",
+            "Aces & Eights",
+            "Hard Wired"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
