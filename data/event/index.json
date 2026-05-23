@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-05-23",
+          "target_loot": [
+            "Hotshot",
+            "Refactor",
+            "Gear MOD",
+            "Golan Gear Ltd",
+            "Striker's Battlegear"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
