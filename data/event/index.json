@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-05-24",
+          "target_loot": [
+            "China Light Industries Corporation",
+            "Ongoing Directive",
+            "Uzina Getica",
+            "Hana-U Corporation",
+            "Fenris Group AB"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
