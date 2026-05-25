@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-05-25",
+          "target_loot": [
+            "Aces & Eights",
+            "Tip of the Spear",
+            "kneepads",
+            "Česká Výroba s.r.o.",
+            "True Patriot"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
