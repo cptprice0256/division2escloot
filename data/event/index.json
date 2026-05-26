@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-05-19",
+      "week": "2026-05-26",
       "missions": [
-        "The Pentagon",
-        "DARPA Research Labs",
-        "District Union Arena",
+        "Wall Street",
         "Roosevelt Island",
-        "Space Administration HQ"
+        "DCD Headquarters",
+        "Air & Space Museum",
+        "District Union Arena"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-05-19",
+          "day": "2026-05-26",
           "target_loot": [
-            "Negotiator's Dilemma",
-            "Cavalier",
+            "Richter & Kaiser GmbH",
+            "backpack",
             "Ongoing Directive",
-            "5.11 Tactical",
-            "Walker, Harris & Co."
+            "Rigger",
+            "Badger Tuff"
           ],
-          "prototype_gear_cache": "kneepads",
+          "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-05-20",
-          "target_loot": [
-            "Shiny Monkey Gear",
-            "rifle",
-            "Overlord Armaments",
-            "Refactor",
-            "pistol"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-05-21",
-          "target_loot": [
-            "pistol",
-            "Breaking Point",
-            "Core Strength",
-            "Concentrated Company",
-            "lmg"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-05-22",
-          "target_loot": [
-            "Gear MOD",
-            "Empress International",
-            "Badger Tuff",
-            "Aces & Eights",
-            "Hard Wired"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-05-23",
-          "target_loot": [
-            "Hotshot",
-            "Refactor",
-            "Gear MOD",
-            "Golan Gear Ltd",
-            "Striker's Battlegear"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-05-24",
-          "target_loot": [
-            "China Light Industries Corporation",
-            "Ongoing Directive",
-            "Uzina Getica",
-            "Hana-U Corporation",
-            "Fenris Group AB"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-05-25",
-          "target_loot": [
-            "Aces & Eights",
-            "Tip of the Spear",
-            "kneepads",
-            "Česká Výroba s.r.o.",
-            "True Patriot"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "smg"
         }
       ]
     }
