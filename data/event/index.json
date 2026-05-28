@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-05-28",
+          "target_loot": [
+            "Cavalier",
+            "Murakami Industries",
+            "Heartbreaker",
+            "Zwiadowka Sp.z o.o.",
+            "Ortiz: Exuro"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
