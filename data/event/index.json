@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-05-29",
+          "target_loot": [
+            "Striker's Battlegear",
+            "Zwiadowka Sp.z o.o.",
+            "Richter & Kaiser GmbH",
+            "Virtuoso",
+            "chest"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
