@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-05-30",
+          "target_loot": [
+            "Imminence Armaments",
+            "Electrique",
+            "Walker, Harris & Co.",
+            "holster",
+            "Ortiz: Exuro"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
