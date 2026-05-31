@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-05-31",
+          "target_loot": [
+            "Concentrated Company",
+            "Aegis",
+            "Breaking Point",
+            "Rigger",
+            "rifle"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
