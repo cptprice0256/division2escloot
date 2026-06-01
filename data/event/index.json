@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-06-01",
+          "target_loot": [
+            "backpack",
+            "chest",
+            "Aegis",
+            "pistol",
+            "Imminence Armaments"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
