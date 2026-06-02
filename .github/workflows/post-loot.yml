@@ -2,14 +2,39 @@ name: Post Division 2 Loot
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [manual_loot_sync]
 
 jobs:
-  post-loot:
+  update-json:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Fetch latest JSON
+        run: |
+          mkdir -p data/event
+          curl -L "https://hi-dep.github.io/division2/data/event/index.json" -o data/event/index.json
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@github.com"
+          git add data/event/index.json
+          git commit -m "Update JSON feed" || echo "No changes to commit"
+          git push
+
+  post-loot:
+    runs-on: ubuntu-latest
+    needs: update-json        # ⬅️ Waits for update-json to finish first
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
