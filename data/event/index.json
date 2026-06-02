@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-05-26",
+      "week": "2026-06-02",
       "missions": [
-        "Wall Street",
-        "Roosevelt Island",
-        "DCD Headquarters",
-        "Air & Space Museum",
-        "District Union Arena"
+        "The Tombs",
+        "Manning National Zoo",
+        "Bank Headquarters",
+        "American History Museum",
+        "Space Administration HQ"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-05-26",
+          "day": "2026-06-02",
           "target_loot": [
+            "Legatus S.p.A.",
+            "Gear MOD",
+            "Hard Wired",
             "Richter & Kaiser GmbH",
-            "backpack",
-            "Ongoing Directive",
-            "Rigger",
-            "Badger Tuff"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-05-27",
-          "target_loot": [
-            "Hana-U Corporation",
-            "Breaking Point",
-            "Sokolov Concern",
-            "Grupo Sombra S.A.",
-            "Cavalier"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-05-28",
-          "target_loot": [
-            "Cavalier",
-            "Murakami Industries",
-            "Heartbreaker",
-            "Zwiadowka Sp.z o.o.",
-            "Ortiz: Exuro"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-05-29",
-          "target_loot": [
-            "Striker's Battlegear",
-            "Zwiadowka Sp.z o.o.",
-            "Richter & Kaiser GmbH",
-            "Virtuoso",
-            "chest"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-05-30",
-          "target_loot": [
-            "Imminence Armaments",
-            "Electrique",
-            "Walker, Harris & Co.",
-            "holster",
-            "Ortiz: Exuro"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-05-31",
-          "target_loot": [
-            "Concentrated Company",
-            "Aegis",
-            "Breaking Point",
-            "Rigger",
-            "rifle"
+            "Aegis"
           ],
           "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-06-01",
-          "target_loot": [
-            "backpack",
-            "chest",
-            "Aegis",
-            "pistol",
-            "Imminence Armaments"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "ar"
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
