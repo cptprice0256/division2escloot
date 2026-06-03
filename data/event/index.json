@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-06-03",
+          "target_loot": [
+            "Rigger",
+            "Uzina Getica",
+            "Providence Defense",
+            "Fenris Group AB",
+            "chest"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
