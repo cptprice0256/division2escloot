@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-06-04",
+          "target_loot": [
+            "Urban Lookout",
+            "Česká Výroba s.r.o.",
+            "Ortiz: Exuro",
+            "Palisade Steelworks",
+            "Alps Summit Armaments"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
