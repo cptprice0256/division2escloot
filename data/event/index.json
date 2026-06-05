@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-06-05",
+          "target_loot": [
+            "smg",
+            "Sokolov Concern",
+            "Hotshot",
+            "Ortiz: Exuro",
+            "Tipping Scales"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
