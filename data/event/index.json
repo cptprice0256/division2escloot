@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-06-06",
+          "target_loot": [
+            "Electrique",
+            "Skill MOD",
+            "Core Strength",
+            "rifle",
+            "chest"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
