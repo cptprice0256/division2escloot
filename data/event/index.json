@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-06-07",
+          "target_loot": [
+            "Hunter's Fury",
+            "Future Initiative",
+            "True Patriot",
+            "Urban Lookout",
+            "Wyvern Wear"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
