@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-06-08",
+          "target_loot": [
+            "Skill MOD",
+            "Douglas & Harding",
+            "Imminence Armaments",
+            "Unit Alloys",
+            "Providence Defense"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
