@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-06-02",
+      "week": "2026-06-09",
       "missions": [
-        "The Tombs",
-        "Manning National Zoo",
-        "Bank Headquarters",
-        "American History Museum",
-        "Space Administration HQ"
+        "The Art Museum",
+        "Capitol Building",
+        "Jefferson Plaza",
+        "Lincoln Memorial",
+        "Federal Emergency Bunker"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-06-02",
+          "day": "2026-06-09",
           "target_loot": [
-            "Legatus S.p.A.",
-            "Gear MOD",
-            "Hard Wired",
-            "Richter & Kaiser GmbH",
-            "Aegis"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-06-03",
-          "target_loot": [
-            "Rigger",
-            "Uzina Getica",
-            "Providence Defense",
             "Fenris Group AB",
-            "chest"
+            "rifle",
+            "mmr",
+            "Future Initiative",
+            "Virtuoso"
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-06-04",
-          "target_loot": [
-            "Urban Lookout",
-            "Česká Výroba s.r.o.",
-            "Ortiz: Exuro",
-            "Palisade Steelworks",
-            "Alps Summit Armaments"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-06-05",
-          "target_loot": [
-            "smg",
-            "Sokolov Concern",
-            "Hotshot",
-            "Ortiz: Exuro",
-            "Tipping Scales"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-06-06",
-          "target_loot": [
-            "Electrique",
-            "Skill MOD",
-            "Core Strength",
-            "rifle",
-            "chest"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-06-07",
-          "target_loot": [
-            "Hunter's Fury",
-            "Future Initiative",
-            "True Patriot",
-            "Urban Lookout",
-            "Wyvern Wear"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-06-08",
-          "target_loot": [
-            "Skill MOD",
-            "Douglas & Harding",
-            "Imminence Armaments",
-            "Unit Alloys",
-            "Providence Defense"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "pistol"
         }
       ]
     }
