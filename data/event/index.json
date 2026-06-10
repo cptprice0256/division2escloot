@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-06-10",
+          "target_loot": [
+            "Murakami Industries",
+            "Negotiator's Dilemma",
+            "Foundry Bulwark",
+            "Habsburg Guard",
+            "Hard Wired"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
