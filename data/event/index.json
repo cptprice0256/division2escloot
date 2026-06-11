@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-06-11",
+          "target_loot": [
+            "Airaldi Holdings",
+            "Gear MOD",
+            "Aegis",
+            "Badger Tuff",
+            "Imminence Armaments"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
