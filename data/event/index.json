@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-06-12",
+          "target_loot": [
+            "Gear MOD",
+            "Wyvern Wear",
+            "Belstone Armory",
+            "Empress International",
+            "Murakami Industries"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
