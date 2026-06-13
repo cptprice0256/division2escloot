@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-06-13",
+          "target_loot": [
+            "lmg",
+            "Gear MOD",
+            "China Light Industries Corporation",
+            "Legatus S.p.A.",
+            "Future Initiative"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
