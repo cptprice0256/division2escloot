@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-06-15",
+          "target_loot": [
+            "Palisade Steelworks",
+            "Douglas & Harding",
+            "Eclipse Protocol",
+            "Walker, Harris & Co.",
+            "mask"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
