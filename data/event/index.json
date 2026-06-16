@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-06-09",
+      "week": "2026-06-16",
       "missions": [
-        "The Art Museum",
-        "Capitol Building",
-        "Jefferson Plaza",
-        "Lincoln Memorial",
-        "Federal Emergency Bunker"
+        "Stranded Tanker",
+        "ViewPoint Museum",
+        "Jefferson Trade Center",
+        "Bank Headquarters",
+        "DCD Headquarters"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-06-09",
+          "day": "2026-06-16",
           "target_loot": [
-            "Fenris Group AB",
-            "rifle",
-            "mmr",
-            "Future Initiative",
-            "Virtuoso"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-06-10",
-          "target_loot": [
-            "Murakami Industries",
-            "Negotiator's Dilemma",
-            "Foundry Bulwark",
-            "Habsburg Guard",
-            "Hard Wired"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-06-11",
-          "target_loot": [
-            "Airaldi Holdings",
-            "Gear MOD",
-            "Aegis",
-            "Badger Tuff",
-            "Imminence Armaments"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-06-12",
-          "target_loot": [
-            "Gear MOD",
-            "Wyvern Wear",
-            "Belstone Armory",
-            "Empress International",
-            "Murakami Industries"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-06-13",
-          "target_loot": [
-            "lmg",
-            "Gear MOD",
-            "China Light Industries Corporation",
+            "Virtuoso",
             "Legatus S.p.A.",
-            "Future Initiative"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-06-14",
-          "target_loot": [
-            "Badger Tuff",
-            "Unit Alloys",
-            "Empress International",
-            "lmg",
-            "Walker, Harris & Co."
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-06-15",
-          "target_loot": [
-            "Palisade Steelworks",
-            "Douglas & Harding",
-            "Eclipse Protocol",
-            "Walker, Harris & Co.",
-            "mask"
+            "Cavalier",
+            "mask",
+            "Belstone Armory"
           ],
           "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "smg"
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
