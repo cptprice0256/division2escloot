@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-06-17",
+          "target_loot": [
+            "Zwiadowka Sp.z o.o.",
+            "Gila Guard",
+            "Eclipse Protocol",
+            "Providence Defense",
+            "Breaking Point"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
