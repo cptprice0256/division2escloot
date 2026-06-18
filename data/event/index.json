@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-06-18",
+          "target_loot": [
+            "Ongoing Directive",
+            "Skill MOD",
+            "China Light Industries Corporation",
+            "Palisade Steelworks",
+            "Imminence Armaments"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
