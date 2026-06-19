@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-06-19",
+          "target_loot": [
+            "Hana-U Corporation",
+            "shotgun",
+            "Richter & Kaiser GmbH",
+            "Zwiadowka Sp.z o.o.",
+            "Breaking Point"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
