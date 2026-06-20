@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-06-20",
+          "target_loot": [
+            "smg",
+            "chest",
+            "Badger Tuff",
+            "Empress International",
+            "Royal Works"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
