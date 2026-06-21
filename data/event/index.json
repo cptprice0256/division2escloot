@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-06-21",
+          "target_loot": [
+            "Providence Defense",
+            "Aces & Eights",
+            "Urban Lookout",
+            "Cavalier",
+            "Gila Guard"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
