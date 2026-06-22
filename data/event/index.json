@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-06-22",
+          "target_loot": [
+            "Foundry Bulwark",
+            "Habsburg Guard",
+            "Murakami Industries",
+            "Walker, Harris & Co.",
+            "Future Initiative"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
