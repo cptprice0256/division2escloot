@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-06-16",
+      "week": "2026-06-23",
       "missions": [
-        "Stranded Tanker",
-        "ViewPoint Museum",
-        "Jefferson Trade Center",
-        "Bank Headquarters",
-        "DCD Headquarters"
+        "Liberty Island",
+        "Potomac Event Center",
+        "American History Museum",
+        "Jefferson Plaza",
+        "Air & Space Museum"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-06-16",
+          "day": "2026-06-23",
           "target_loot": [
-            "Virtuoso",
-            "Legatus S.p.A.",
-            "Cavalier",
-            "mask",
-            "Belstone Armory"
+            "Providence Defense",
+            "Ongoing Directive",
+            "Murakami Industries",
+            "Petrov Defense Group",
+            "lmg"
           ],
           "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-06-17",
-          "target_loot": [
-            "Zwiadowka Sp.z o.o.",
-            "Gila Guard",
-            "Eclipse Protocol",
-            "Providence Defense",
-            "Breaking Point"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-06-18",
-          "target_loot": [
-            "Ongoing Directive",
-            "Skill MOD",
-            "China Light Industries Corporation",
-            "Palisade Steelworks",
-            "Imminence Armaments"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-06-19",
-          "target_loot": [
-            "Hana-U Corporation",
-            "shotgun",
-            "Richter & Kaiser GmbH",
-            "Zwiadowka Sp.z o.o.",
-            "Breaking Point"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-06-20",
-          "target_loot": [
-            "smg",
-            "chest",
-            "Badger Tuff",
-            "Empress International",
-            "Royal Works"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-06-21",
-          "target_loot": [
-            "Providence Defense",
-            "Aces & Eights",
-            "Urban Lookout",
-            "Cavalier",
-            "Gila Guard"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-06-22",
-          "target_loot": [
-            "Foundry Bulwark",
-            "Habsburg Guard",
-            "Murakami Industries",
-            "Walker, Harris & Co.",
-            "Future Initiative"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "mmr"
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
