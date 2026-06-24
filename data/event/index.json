@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-06-24",
+          "target_loot": [
+            "Fenris Group AB",
+            "Hard Wired",
+            "Electrique",
+            "Česká Výroba s.r.o.",
+            "Walker, Harris & Co."
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
