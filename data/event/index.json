@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-06-26",
+          "target_loot": [
+            "Virtuoso",
+            "5.11 Tactical",
+            "Future Initiative",
+            "Hana-U Corporation",
+            "Hard Wired"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
