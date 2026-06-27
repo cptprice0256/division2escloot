@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-06-27",
+          "target_loot": [
+            "Legatus S.p.A.",
+            "Grupo Sombra S.A.",
+            "Gila Guard",
+            "Gear MOD",
+            "Lengmo"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
