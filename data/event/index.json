@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-06-28",
+          "target_loot": [
+            "Eclipse Protocol",
+            "Concentrated Company",
+            "Shiny Monkey Gear",
+            "Hunter's Fury",
+            "ar"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
