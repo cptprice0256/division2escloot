@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-06-29",
+          "target_loot": [
+            "Habsburg Guard",
+            "mmr",
+            "Cavalier",
+            "Royal Works",
+            "Urban Lookout"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
