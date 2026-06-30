@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-06-23",
+      "week": "2026-06-30",
       "missions": [
-        "Liberty Island",
-        "Potomac Event Center",
-        "American History Museum",
-        "Jefferson Plaza",
-        "Air & Space Museum"
+        "The Art Museum",
+        "Manning National Zoo",
+        "Camp White Oak",
+        "The Pentagon",
+        "DARPA Research Labs"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-06-23",
+          "day": "2026-06-30",
           "target_loot": [
-            "Providence Defense",
-            "Ongoing Directive",
-            "Murakami Industries",
-            "Petrov Defense Group",
-            "lmg"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-06-24",
-          "target_loot": [
-            "Fenris Group AB",
-            "Hard Wired",
-            "Electrique",
-            "Česká Výroba s.r.o.",
-            "Walker, Harris & Co."
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-06-25",
-          "target_loot": [
-            "Airaldi Holdings",
-            "Edelweiss GPz",
-            "Uzina Getica",
             "China Light Industries Corporation",
-            "Skill MOD"
+            "Murakami Industries",
+            "Royal Works",
+            "mmr",
+            "lmg"
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-06-26",
-          "target_loot": [
-            "Virtuoso",
-            "5.11 Tactical",
-            "Future Initiative",
-            "Hana-U Corporation",
-            "Hard Wired"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-06-27",
-          "target_loot": [
-            "Legatus S.p.A.",
-            "Grupo Sombra S.A.",
-            "Gila Guard",
-            "Gear MOD",
-            "Lengmo"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-06-28",
-          "target_loot": [
-            "Eclipse Protocol",
-            "Concentrated Company",
-            "Shiny Monkey Gear",
-            "Hunter's Fury",
-            "ar"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-06-29",
-          "target_loot": [
-            "Habsburg Guard",
-            "mmr",
-            "Cavalier",
-            "Royal Works",
-            "Urban Lookout"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "smg"
         }
       ]
     }
