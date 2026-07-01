@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-07-01",
+          "target_loot": [
+            "Providence Defense",
+            "smg",
+            "Sokolov Concern",
+            "Refactor",
+            "Eclipse Protocol"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
