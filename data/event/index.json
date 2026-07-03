@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-07-03",
+          "target_loot": [
+            "Hard Wired",
+            "True Patriot",
+            "Lengmo",
+            "Habsburg Guard",
+            "Negotiator's Dilemma"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
