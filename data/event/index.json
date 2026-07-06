@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-07-06",
+          "target_loot": [
+            "Česká Výroba s.r.o.",
+            "Golan Gear Ltd",
+            "Hard Wired",
+            "mmr",
+            "Sokolov Concern"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
