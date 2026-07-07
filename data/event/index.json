@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-06-30",
+      "week": "2026-07-07",
       "missions": [
-        "The Art Museum",
-        "Manning National Zoo",
-        "Camp White Oak",
-        "The Pentagon",
-        "DARPA Research Labs"
+        "Coney Island Ballpark",
+        "Coney Island Amusement Park",
+        "ViewPoint Museum",
+        "Capitol Building",
+        "Potomac Event Center"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-06-30",
-          "target_loot": [
-            "China Light Industries Corporation",
-            "Murakami Industries",
-            "Royal Works",
-            "mmr",
-            "lmg"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-07-01",
-          "target_loot": [
-            "Providence Defense",
-            "smg",
-            "Sokolov Concern",
-            "Refactor",
-            "Eclipse Protocol"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-07-02",
-          "target_loot": [
-            "Imminence Armaments",
-            "Core Strength",
-            "Foundry Bulwark",
-            "Striker's Battlegear",
-            "smg"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-07-03",
-          "target_loot": [
-            "Hard Wired",
-            "True Patriot",
-            "Lengmo",
-            "Habsburg Guard",
-            "Negotiator's Dilemma"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-07-04",
-          "target_loot": [
-            "True Patriot",
-            "mmr",
-            "Electrique",
-            "Tip of the Spear",
-            "Imminence Armaments"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-07-05",
+          "day": "2026-07-07",
           "target_loot": [
             "Petrov Defense Group",
-            "smg",
-            "Douglas & Harding",
-            "Royal Works",
-            "True Patriot"
+            "lmg",
+            "Gear MOD",
+            "Legatus S.p.A.",
+            "Tipping Scales"
           ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-07-06",
-          "target_loot": [
-            "Česká Výroba s.r.o.",
-            "Golan Gear Ltd",
-            "Hard Wired",
-            "mmr",
-            "Sokolov Concern"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "mmr"
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
