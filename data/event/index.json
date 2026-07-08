@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-07-08",
+          "target_loot": [
+            "Tip of the Spear",
+            "Zwiadowka Sp.z o.o.",
+            "Uzina Getica",
+            "Badger Tuff",
+            "backpack"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
