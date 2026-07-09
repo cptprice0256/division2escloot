@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-07-09",
+          "target_loot": [
+            "Empress International",
+            "Concentrated Company",
+            "Unit Alloys",
+            "Wyvern Wear",
+            "Providence Defense"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
