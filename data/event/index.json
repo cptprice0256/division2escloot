@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-07-10",
+          "target_loot": [
+            "Hunter's Fury",
+            "backpack",
+            "Uzina Getica",
+            "Legatus S.p.A.",
+            "Unit Alloys"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
