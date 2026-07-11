@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-07-11",
+          "target_loot": [
+            "Royal Works",
+            "Skill MOD",
+            "Aces & Eights",
+            "Overlord Armaments",
+            "Belstone Armory"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
