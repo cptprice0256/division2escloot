@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-07-12",
+          "target_loot": [
+            "Legatus S.p.A.",
+            "Tipping Scales",
+            "5.11 Tactical",
+            "Badger Tuff",
+            "Sokolov Concern"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
