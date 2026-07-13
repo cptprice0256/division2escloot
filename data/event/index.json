@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-07-13",
+          "target_loot": [
+            "mmr",
+            "Sokolov Concern",
+            "Zwiadowka Sp.z o.o.",
+            "Unit Alloys",
+            "Breaking Point"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
