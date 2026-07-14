@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-07-07",
+      "week": "2026-07-14",
       "missions": [
-        "Coney Island Ballpark",
-        "Coney Island Amusement Park",
-        "ViewPoint Museum",
+        "The Art Museum",
         "Capitol Building",
-        "Potomac Event Center"
+        "Jefferson Plaza",
+        "Lincoln Memorial",
+        "Federal Emergency Bunker"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-07-07",
+          "day": "2026-07-14",
           "target_loot": [
-            "Petrov Defense Group",
-            "lmg",
-            "Gear MOD",
-            "Legatus S.p.A.",
-            "Tipping Scales"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-07-08",
-          "target_loot": [
-            "Tip of the Spear",
-            "Zwiadowka Sp.z o.o.",
-            "Uzina Getica",
-            "Badger Tuff",
-            "backpack"
+            "Fenris Group AB",
+            "gloves",
+            "Wyvern Wear",
+            "Rigger",
+            "Lengmo"
           ],
           "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-07-09",
-          "target_loot": [
-            "Empress International",
-            "Concentrated Company",
-            "Unit Alloys",
-            "Wyvern Wear",
-            "Providence Defense"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-07-10",
-          "target_loot": [
-            "Hunter's Fury",
-            "backpack",
-            "Uzina Getica",
-            "Legatus S.p.A.",
-            "Unit Alloys"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-07-11",
-          "target_loot": [
-            "Royal Works",
-            "Skill MOD",
-            "Aces & Eights",
-            "Overlord Armaments",
-            "Belstone Armory"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-07-12",
-          "target_loot": [
-            "Legatus S.p.A.",
-            "Tipping Scales",
-            "5.11 Tactical",
-            "Badger Tuff",
-            "Sokolov Concern"
-          ],
-          "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-07-13",
-          "target_loot": [
-            "mmr",
-            "Sokolov Concern",
-            "Zwiadowka Sp.z o.o.",
-            "Unit Alloys",
-            "Breaking Point"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "rifle"
         }
       ]
     }
