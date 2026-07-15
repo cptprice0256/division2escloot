@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-07-15",
+          "target_loot": [
+            "Gila Guard",
+            "Tipping Scales",
+            "Gear MOD",
+            "mask",
+            "Hard Wired"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
