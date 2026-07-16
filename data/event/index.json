@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-07-16",
+          "target_loot": [
+            "Rigger",
+            "Edelweiss GPz",
+            "Douglas & Harding",
+            "backpack",
+            "Hunter's Fury"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
