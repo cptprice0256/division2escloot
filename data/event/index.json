@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-07-17",
+          "target_loot": [
+            "Habsburg Guard",
+            "Murakami Industries",
+            "Airaldi Holdings",
+            "Overlord Armaments",
+            "Umbra Initiative"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
