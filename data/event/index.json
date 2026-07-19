@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-07-19",
+          "target_loot": [
+            "rifle",
+            "Future Initiative",
+            "Virtuoso",
+            "Uzina Getica",
+            "Murakami Industries"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
