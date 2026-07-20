@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-07-20",
+          "target_loot": [
+            "Brazos de Arcabuz",
+            "5.11 Tactical",
+            "Aces & Eights",
+            "kneepads",
+            "Imminence Armaments"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
