@@ -1,98 +1,38 @@
 {
   "Escalation": [
     {
-      "week": "2026-07-14",
+      "week": "2026-07-21",
       "missions": [
         "The Art Museum",
-        "Capitol Building",
-        "Jefferson Plaza",
-        "Lincoln Memorial",
-        "Federal Emergency Bunker"
+        "Manning National Zoo",
+        "Camp White Oak",
+        "The Pentagon",
+        "DARPA Research Labs"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-07-14",
+          "day": "2026-07-21",
           "target_loot": [
-            "Fenris Group AB",
-            "gloves",
-            "Wyvern Wear",
-            "Rigger",
-            "Lengmo"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-07-15",
-          "target_loot": [
-            "Gila Guard",
-            "Tipping Scales",
-            "Gear MOD",
-            "mask",
-            "Hard Wired"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-07-16",
-          "target_loot": [
-            "Rigger",
-            "Edelweiss GPz",
-            "Douglas & Harding",
-            "backpack",
-            "Hunter's Fury"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-07-17",
-          "target_loot": [
-            "Habsburg Guard",
-            "Murakami Industries",
+            "Lengmo",
             "Airaldi Holdings",
-            "Overlord Armaments",
-            "Umbra Initiative"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-07-18",
-          "target_loot": [
-            "Providence Defense",
-            "Sokolov Concern",
-            "Gila Guard",
-            "Heartbreaker",
-            "Airaldi Holdings"
+            "Edelweiss GPz",
+            "Unit Alloys",
+            "Shiny Monkey Gear"
           ],
           "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-07-19",
-          "target_loot": [
-            "shotgun",
-            "Future Initiative",
-            "Virtuoso",
-            "Uzina Getica",
-            "Murakami Industries"
-          ],
-          "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "pistol"
         },
         {
-          "day": "2026-07-20",
+          "day": "2026-07-22",
           "target_loot": [
-            "Brazos de Arcabuz",
-            "5.11 Tactical",
-            "Aces & Eights",
-            "kneepads",
-            "Imminence Armaments"
+            "Hana-U Corporation",
+            "Wyvern Wear",
+            "Ongoing Directive",
+            "Airaldi Holdings",
+            "Negotiator's Dilemma"
           ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "pistol"
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
