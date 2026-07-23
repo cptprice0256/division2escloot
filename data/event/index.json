@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-07-23",
+          "target_loot": [
+            "Golan Gear Ltd",
+            "Eclipse Protocol",
+            "chest",
+            "Ortiz: Reficere",
+            "shotgun"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
