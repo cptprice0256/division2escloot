@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-07-24",
+          "target_loot": [
+            "Hana-U Corporation",
+            "Petrov Defense Group",
+            "Gear MOD",
+            "Overlord Armaments",
+            "Douglas & Harding"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
