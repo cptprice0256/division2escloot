@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-07-27",
+          "target_loot": [
+            "Sokolov Concern",
+            "lmg",
+            "rifle",
+            "Overlord Armaments",
+            "Palisade Steelworks"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
