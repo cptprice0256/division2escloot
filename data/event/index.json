@@ -1,97 +1,25 @@
 {
   "Escalation": [
     {
-      "week": "2026-07-21",
+      "week": "2026-07-28",
       "missions": [
-        "The Art Museum",
-        "Manning National Zoo",
-        "Camp White Oak",
-        "The Pentagon",
-        "DARPA Research Labs"
+        "Stranded Tanker",
+        "ViewPoint Museum",
+        "Jefferson Trade Center",
+        "Bank Headquarters",
+        "DCD Headquarters"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-07-21",
+          "day": "2026-07-28",
           "target_loot": [
-            "Lengmo",
-            "Airaldi Holdings",
-            "Edelweiss GPz",
-            "Unit Alloys",
-            "Shiny Monkey Gear"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-07-22",
-          "target_loot": [
-            "Hana-U Corporation",
-            "Wyvern Wear",
-            "Ongoing Directive",
-            "Airaldi Holdings",
-            "Negotiator's Dilemma"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-07-23",
-          "target_loot": [
+            "Imminence Armaments",
+            "Brazos de Arcabuz",
+            "pistol",
             "Golan Gear Ltd",
-            "Eclipse Protocol",
-            "chest",
-            "Ortiz: Reficere",
-            "shotgun"
+            "Habsburg Guard"
           ],
           "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-07-24",
-          "target_loot": [
-            "Hana-U Corporation",
-            "Petrov Defense Group",
-            "Gear MOD",
-            "Overlord Armaments",
-            "Douglas & Harding"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-07-25",
-          "target_loot": [
-            "Murakami Industries",
-            "Tipping Scales",
-            "Heartbreaker",
-            "Unit Alloys",
-            "Skill MOD"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-07-26",
-          "target_loot": [
-            "pistol",
-            "5.11 Tactical",
-            "chest",
-            "Hana-U Corporation",
-            "rifle"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-07-27",
-          "target_loot": [
-            "Sokolov Concern",
-            "lmg",
-            "rifle",
-            "Overlord Armaments",
-            "Palisade Steelworks"
-          ],
-          "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "rifle"
         }
       ]
