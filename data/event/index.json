@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-07-30",
+          "target_loot": [
+            "kneepads",
+            "Refactor",
+            "Core Strength",
+            "Sokolov Concern",
+            "Edelweiss GPz"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
