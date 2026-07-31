@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-07-31",
+          "target_loot": [
+            "Royal Works",
+            "Umbra Initiative",
+            "mmr",
+            "Airaldi Holdings",
+            "Eclipse Protocol"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
