@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-08-03",
+          "target_loot": [
+            "pistol",
+            "Measured Assembly",
+            "holster",
+            "Douglas & Harding",
+            "Česká Výroba s.r.o."
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
