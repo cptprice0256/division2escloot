@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-07-28",
+      "week": "2026-08-04",
       "missions": [
-        "Stranded Tanker",
-        "ViewPoint Museum",
-        "Jefferson Trade Center",
-        "Bank Headquarters",
-        "DCD Headquarters"
+        "The Pentagon",
+        "DARPA Research Labs",
+        "District Union Arena",
+        "Roosevelt Island",
+        "Space Administration HQ"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-07-28",
+          "day": "2026-08-04",
           "target_loot": [
-            "Imminence Armaments",
-            "Brazos de Arcabuz",
-            "pistol",
-            "Golan Gear Ltd",
-            "Habsburg Guard"
+            "Fenris Group AB",
+            "gloves",
+            "Grupo Sombra S.A.",
+            "ar",
+            "Refactor"
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-07-29",
-          "target_loot": [
-            "Ongoing Directive",
-            "gloves",
-            "Skill MOD",
-            "True Patriot",
-            "Future Initiative"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-07-30",
-          "target_loot": [
-            "kneepads",
-            "Refactor",
-            "Core Strength",
-            "Sokolov Concern",
-            "Edelweiss GPz"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-07-31",
-          "target_loot": [
-            "Royal Works",
-            "Umbra Initiative",
-            "mmr",
-            "Airaldi Holdings",
-            "Eclipse Protocol"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-08-01",
-          "target_loot": [
-            "Tipping Scales",
-            "Gear MOD",
-            "Aces & Eights",
-            "Striker's Battlegear",
-            "Airaldi Holdings"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-08-02",
-          "target_loot": [
-            "Tip of the Spear",
-            "Cavalier",
-            "Petrov Defense Group",
-            "Eclipse Protocol",
-            "Empress International"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-08-03",
-          "target_loot": [
-            "pistol",
-            "Measured Assembly",
-            "holster",
-            "Douglas & Harding",
-            "Česká Výroba s.r.o."
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "lmg"
         }
       ]
     }
