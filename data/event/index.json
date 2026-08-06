@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-08-06",
+          "target_loot": [
+            "Ortiz: Reficere",
+            "mmr",
+            "Česká Výroba s.r.o.",
+            "Unit Alloys",
+            "Skill MOD"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
