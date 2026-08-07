@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-08-07",
+          "target_loot": [
+            "Tip of the Spear",
+            "Overlord Armaments",
+            "Concentrated Company",
+            "Zwiadowka Sp.z o.o.",
+            "Wyvern Wear"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
