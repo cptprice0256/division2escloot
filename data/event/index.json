@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-08-08",
+          "target_loot": [
+            "lmg",
+            "Gear MOD",
+            "Striker's Battlegear",
+            "Umbra Initiative",
+            "Aces & Eights"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
