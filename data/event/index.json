@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-08-09",
+          "target_loot": [
+            "Aces & Eights",
+            "Electrique",
+            "shotgun",
+            "Lengmo",
+            "China Light Industries Corporation"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
