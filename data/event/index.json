@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-08-10",
+          "target_loot": [
+            "Tip of the Spear",
+            "Virtuoso",
+            "Douglas & Harding",
+            "Fenris Group AB",
+            "lmg"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
