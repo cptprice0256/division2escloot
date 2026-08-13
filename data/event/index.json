@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-08-13",
+          "target_loot": [
+            "Golan Gear Ltd",
+            "Measured Assembly",
+            "Petrov Defense Group",
+            "Habsburg Guard",
+            "holster"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
