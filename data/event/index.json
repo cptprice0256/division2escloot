@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-08-15",
+          "target_loot": [
+            "Richter & Kaiser GmbH",
+            "Fenris Group AB",
+            "Aces & Eights",
+            "Aegis",
+            "Uzina Getica"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
