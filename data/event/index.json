@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-08-16",
+          "target_loot": [
+            "holster",
+            "True Patriot",
+            "mmr",
+            "Richter & Kaiser GmbH",
+            "5.11 Tactical"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
