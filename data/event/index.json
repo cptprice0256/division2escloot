@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-08-11",
+      "week": "2026-08-18",
       "missions": [
-        "Wall Street",
-        "Roosevelt Island",
-        "DCD Headquarters",
-        "Air & Space Museum",
-        "District Union Arena"
+        "Pathway Park",
+        "Camp White Oak",
+        "Grand Washington Hotel",
+        "Jefferson Trade Center",
+        "Federal Emergency Bunker"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-08-11",
+          "day": "2026-08-18",
           "target_loot": [
-            "Walker, Harris & Co.",
-            "pistol",
-            "Tipping Scales",
-            "Golan Gear Ltd",
-            "5.11 Tactical"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-08-12",
-          "target_loot": [
-            "Tip of the Spear",
-            "Murakami Industries",
-            "Core Strength",
-            "Ongoing Directive",
-            "Gila Guard"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-08-13",
-          "target_loot": [
-            "Golan Gear Ltd",
-            "Measured Assembly",
-            "Petrov Defense Group",
-            "Habsburg Guard",
-            "holster"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-08-14",
-          "target_loot": [
-            "Gila Guard",
-            "Virtuoso",
-            "Grupo Sombra S.A.",
-            "gloves",
-            "Core Strength"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-08-15",
-          "target_loot": [
-            "Richter & Kaiser GmbH",
-            "Fenris Group AB",
+            "lmg",
+            "Lengmo",
             "Aces & Eights",
-            "Aegis",
-            "Uzina Getica"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-08-16",
-          "target_loot": [
-            "holster",
-            "True Patriot",
-            "mmr",
-            "Richter & Kaiser GmbH",
-            "5.11 Tactical"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-08-17",
-          "target_loot": [
-            "Wyvern Wear",
-            "Golan Gear Ltd",
-            "Murakami Industries",
-            "Sokolov Concern",
-            "Core Strength"
+            "Hotshot",
+            "shotgun"
           ],
           "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
