@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "lmg"
+        },
+        {
+          "day": "2026-08-19",
+          "target_loot": [
+            "Česká Výroba s.r.o.",
+            "Shiny Monkey Gear",
+            "Fenris Group AB",
+            "shotgun",
+            "Legatus S.p.A."
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
