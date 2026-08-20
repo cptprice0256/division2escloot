@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-08-20",
+          "target_loot": [
+            "Ortiz: Reficere",
+            "Lengmo",
+            "shotgun",
+            "Virtuoso",
+            "gloves"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
