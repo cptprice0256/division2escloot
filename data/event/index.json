@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-08-21",
+          "target_loot": [
+            "Urban Lookout",
+            "shotgun",
+            "Grupo Sombra S.A.",
+            "chest",
+            "Concentrated Company"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
