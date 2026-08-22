@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-08-22",
+          "target_loot": [
+            "Ortiz: Reficere",
+            "Electrique",
+            "Hard Wired",
+            "Providence Defense",
+            "5.11 Tactical"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
