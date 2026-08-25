@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-08-18",
+      "week": "2026-08-25",
       "missions": [
-        "Pathway Park",
-        "Camp White Oak",
-        "Grand Washington Hotel",
-        "Jefferson Trade Center",
-        "Federal Emergency Bunker"
+        "Liberty Island",
+        "Potomac Event Center",
+        "American History Museum",
+        "Jefferson Plaza",
+        "Air & Space Museum"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-08-18",
+          "day": "2026-08-25",
           "target_loot": [
-            "lmg",
-            "Lengmo",
-            "Aces & Eights",
-            "Hotshot",
+            "Rigger",
+            "Eclipse Protocol",
+            "Core Strength",
+            "chest",
             "shotgun"
           ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-08-19",
-          "target_loot": [
-            "Česká Výroba s.r.o.",
-            "Shiny Monkey Gear",
-            "Fenris Group AB",
-            "shotgun",
-            "Legatus S.p.A."
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-08-20",
-          "target_loot": [
-            "Ortiz: Reficere",
-            "Lengmo",
-            "shotgun",
-            "Virtuoso",
-            "gloves"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-08-21",
-          "target_loot": [
-            "Urban Lookout",
-            "shotgun",
-            "Grupo Sombra S.A.",
-            "chest",
-            "Concentrated Company"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-08-22",
-          "target_loot": [
-            "Ortiz: Reficere",
-            "Electrique",
-            "Hard Wired",
-            "Providence Defense",
-            "5.11 Tactical"
-          ],
           "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-08-23",
-          "target_loot": [
-            "Zwiadowka Sp.z o.o.",
-            "Hard Wired",
-            "Wyvern Wear",
-            "Sokolov Concern",
-            "Skill MOD"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-08-24",
-          "target_loot": [
-            "smg",
-            "Ongoing Directive",
-            "lmg",
-            "Lengmo",
-            "Ortiz: Exuro"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "ar"
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
