@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-08-28",
+          "target_loot": [
+            "Tipping Scales",
+            "chest",
+            "Electrique",
+            "Refactor",
+            "Gear MOD"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
