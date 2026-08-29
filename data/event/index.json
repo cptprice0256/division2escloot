@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-08-29",
+          "target_loot": [
+            "Shiny Monkey Gear",
+            "Wyvern Wear",
+            "Palisade Steelworks",
+            "Walker, Harris & Co.",
+            "Hana-U Corporation"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
