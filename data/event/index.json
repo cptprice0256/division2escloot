@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-08-30",
+          "target_loot": [
+            "Measured Assembly",
+            "lmg",
+            "Ortiz: Reficere",
+            "mmr",
+            "Zwiadowka Sp.z o.o."
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
