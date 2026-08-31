@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-08-31",
+          "target_loot": [
+            "Golan Gear Ltd",
+            "Providence Defense",
+            "Legatus S.p.A.",
+            "smg",
+            "holster"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
