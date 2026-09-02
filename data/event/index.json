@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-09-02",
+          "target_loot": [
+            "Edelweiss GPz",
+            "Richter & Kaiser GmbH",
+            "Lengmo",
+            "Hard Wired",
+            "Ortiz: Reficere"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
