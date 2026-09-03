@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-09-03",
+          "target_loot": [
+            "Walker, Harris & Co.",
+            "Ortiz: Exuro",
+            "Concentrated Company",
+            "ar",
+            "Uzina Getica"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "ar"
         }
       ]
     }
