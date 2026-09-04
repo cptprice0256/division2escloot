@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "ar"
+        },
+        {
+          "day": "2026-09-04",
+          "target_loot": [
+            "holster",
+            "Skill MOD",
+            "Petrov Defense Group",
+            "Golan Gear Ltd",
+            "Grupo Sombra S.A."
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
