@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-09-05",
+          "target_loot": [
+            "Electrique",
+            "Gear MOD",
+            "Lengmo",
+            "China Light Industries Corporation",
+            "rifle"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
