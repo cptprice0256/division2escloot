@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-09-06",
+          "target_loot": [
+            "Gila Guard",
+            "Electrique",
+            "Wyvern Wear",
+            "Concentrated Company",
+            "Measured Assembly"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
