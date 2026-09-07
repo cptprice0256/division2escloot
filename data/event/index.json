@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-09-07",
+          "target_loot": [
+            "Royal Works",
+            "Negotiator's Dilemma",
+            "Aces & Eights",
+            "Walker, Harris & Co.",
+            "Grupo Sombra S.A."
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
