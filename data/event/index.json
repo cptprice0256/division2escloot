@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-09-01",
+      "week": "2026-09-08",
       "missions": [
-        "The Tombs",
-        "Manning National Zoo",
-        "Bank Headquarters",
-        "American History Museum",
+        "The Pentagon",
+        "DARPA Research Labs",
+        "District Union Arena",
+        "Roosevelt Island",
         "Space Administration HQ"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-09-01",
+          "day": "2026-09-08",
           "target_loot": [
-            "Skill MOD",
-            "Aegis",
-            "Belstone Armory",
-            "Unit Alloys",
-            "Legatus S.p.A."
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-02",
-          "target_loot": [
-            "Edelweiss GPz",
-            "Richter & Kaiser GmbH",
-            "Lengmo",
-            "Hard Wired",
-            "Ortiz: Reficere"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-03",
-          "target_loot": [
-            "Walker, Harris & Co.",
-            "Ortiz: Exuro",
-            "Concentrated Company",
-            "ar",
-            "Uzina Getica"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "ar"
-        },
-        {
-          "day": "2026-09-04",
-          "target_loot": [
-            "holster",
-            "Skill MOD",
-            "Petrov Defense Group",
-            "Golan Gear Ltd",
-            "Grupo Sombra S.A."
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-05",
-          "target_loot": [
-            "Electrique",
-            "Gear MOD",
-            "Lengmo",
-            "China Light Industries Corporation",
-            "rifle"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-06",
-          "target_loot": [
-            "Gila Guard",
-            "Electrique",
+            "Cavalier",
+            "Alps Summit Armaments",
             "Wyvern Wear",
-            "Concentrated Company",
-            "Measured Assembly"
+            "Walker, Harris & Co.",
+            "Empress International"
           ],
           "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-09-07",
-          "target_loot": [
-            "Royal Works",
-            "Negotiator's Dilemma",
-            "Aces & Eights",
-            "Walker, Harris & Co.",
-            "Grupo Sombra S.A."
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "shotgun"
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
