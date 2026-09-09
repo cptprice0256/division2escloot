@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-09-09",
+          "target_loot": [
+            "Hard Wired",
+            "gloves",
+            "True Patriot",
+            "Sokolov Concern",
+            "holster"
+          ],
+          "prototype_gear_cache": "gloves",
+          "prototype_weapon_cache": "pistol"
         }
       ]
     }
