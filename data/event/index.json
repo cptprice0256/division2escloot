@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-09-10",
+          "target_loot": [
+            "Sokolov Concern",
+            "Empress International",
+            "Česká Výroba s.r.o.",
+            "Hunter's Fury",
+            "pistol"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
