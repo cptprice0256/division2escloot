@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-09-13",
+          "target_loot": [
+            "Alps Summit Armaments",
+            "Aces & Eights",
+            "Cavalier",
+            "5.11 Tactical",
+            "Belstone Armory"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "rifle"
         }
       ]
     }
