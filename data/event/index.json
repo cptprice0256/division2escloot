@@ -81,6 +81,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-09-14",
+          "target_loot": [
+            "Concentrated Company",
+            "Shiny Monkey Gear",
+            "holster",
+            "Refactor",
+            "Zwiadowka Sp.z o.o."
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
