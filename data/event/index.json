@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-09-08",
+      "week": "2026-09-15",
       "missions": [
-        "The Pentagon",
-        "DARPA Research Labs",
-        "District Union Arena",
+        "Wall Street",
         "Roosevelt Island",
-        "Space Administration HQ"
+        "DCD Headquarters",
+        "Air & Space Museum",
+        "District Union Arena"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-09-08",
+          "day": "2026-09-15",
           "target_loot": [
-            "Cavalier",
-            "Alps Summit Armaments",
-            "Wyvern Wear",
+            "Providence Defense",
+            "smg",
             "Walker, Harris & Co.",
-            "Empress International"
+            "shotgun",
+            "Ortiz: Reficere"
           ],
           "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-09-09",
-          "target_loot": [
-            "Hard Wired",
-            "gloves",
-            "True Patriot",
-            "Sokolov Concern",
-            "holster"
-          ],
-          "prototype_gear_cache": "gloves",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-09-10",
-          "target_loot": [
-            "Sokolov Concern",
-            "Empress International",
-            "Česká Výroba s.r.o.",
-            "Hunter's Fury",
-            "pistol"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-11",
-          "target_loot": [
-            "Alps Summit Armaments",
-            "Measured Assembly",
-            "Ortiz: Exuro",
-            "lmg",
-            "Refactor"
-          ],
-          "prototype_gear_cache": "gloves",
           "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-12",
-          "target_loot": [
-            "Douglas & Harding",
-            "Urban Lookout",
-            "Murakami Industries",
-            "Ortiz: Reficere",
-            "Aegis"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-13",
-          "target_loot": [
-            "Alps Summit Armaments",
-            "Aces & Eights",
-            "Cavalier",
-            "5.11 Tactical",
-            "Belstone Armory"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-09-14",
-          "target_loot": [
-            "Concentrated Company",
-            "Shiny Monkey Gear",
-            "holster",
-            "Refactor",
-            "Zwiadowka Sp.z o.o."
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "lmg"
         }
       ]
     }
