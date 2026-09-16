@@ -21,6 +21,18 @@
           ],
           "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "mmr"
+        },
+        {
+          "day": "2026-09-16",
+          "target_loot": [
+            "chest",
+            "Tipping Scales",
+            "5.11 Tactical",
+            "Grupo Sombra S.A.",
+            "Tip of the Spear"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
