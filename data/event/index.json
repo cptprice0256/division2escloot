@@ -45,6 +45,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-09-18",
+          "target_loot": [
+            "Ortiz: Exuro",
+            "chest",
+            "Electrique",
+            "Urban Lookout",
+            "China Light Industries Corporation"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
