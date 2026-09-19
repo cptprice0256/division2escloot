@@ -57,6 +57,18 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-09-19",
+          "target_loot": [
+            "Golan Gear Ltd",
+            "Alps Summit Armaments",
+            "chest",
+            "gloves",
+            "Unit Alloys"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
