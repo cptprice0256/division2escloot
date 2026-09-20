@@ -69,6 +69,18 @@
           ],
           "prototype_gear_cache": "chest",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-09-20",
+          "target_loot": [
+            "Foundry Bulwark",
+            "Aces & Eights",
+            "gloves",
+            "Striker's Battlegear",
+            "Providence Defense"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
