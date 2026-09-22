@@ -1,98 +1,26 @@
 {
   "Escalation": [
     {
-      "week": "2026-09-15",
+      "week": "2026-09-22",
       "missions": [
-        "Wall Street",
-        "Roosevelt Island",
-        "DCD Headquarters",
-        "Air & Space Museum",
-        "District Union Arena"
+        "The Art Museum",
+        "Manning National Zoo",
+        "Camp White Oak",
+        "The Pentagon",
+        "DARPA Research Labs"
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-09-15",
+          "day": "2026-09-22",
           "target_loot": [
-            "Providence Defense",
-            "smg",
-            "Walker, Harris & Co.",
-            "shotgun",
-            "Ortiz: Reficere"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-16",
-          "target_loot": [
-            "chest",
-            "Tipping Scales",
-            "5.11 Tactical",
-            "Grupo Sombra S.A.",
-            "Tip of the Spear"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-17",
-          "target_loot": [
-            "True Patriot",
-            "Breaking Point",
-            "mask",
-            "Eclipse Protocol",
-            "smg"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "pistol"
-        },
-        {
-          "day": "2026-09-18",
-          "target_loot": [
-            "Ortiz: Exuro",
-            "chest",
-            "Electrique",
-            "Urban Lookout",
-            "China Light Industries Corporation"
+            "Ember Engine",
+            "Badger Tuff",
+            "Striker's Battlegear",
+            "Petrov Defense Group",
+            "Alps Summit Armaments"
           ],
           "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-19",
-          "target_loot": [
-            "Golan Gear Ltd",
-            "Alps Summit Armaments",
-            "chest",
-            "gloves",
-            "Unit Alloys"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-09-20",
-          "target_loot": [
-            "Foundry Bulwark",
-            "Aces & Eights",
-            "gloves",
-            "Striker's Battlegear",
-            "Providence Defense"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-09-21",
-          "target_loot": [
-            "Badger Tuff",
-            "Airaldi Holdings",
-            "mask",
-            "backpack",
-            "Urban Lookout"
-          ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "lmg"
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
