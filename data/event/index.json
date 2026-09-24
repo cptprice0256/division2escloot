@@ -33,6 +33,18 @@
           ],
           "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "shotgun"
+        },
+        {
+          "day": "2026-09-24",
+          "target_loot": [
+            "Tipping Scales",
+            "Shiny Monkey Gear",
+            "Imminence Armaments",
+            "Core Strength",
+            "Breaking Point"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "lmg"
         }
       ]
     }
