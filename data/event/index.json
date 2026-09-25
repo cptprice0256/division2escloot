@@ -13,38 +13,50 @@
         {
           "day": "2026-09-22",
           "target_loot": [
-            "Ember Engine",
-            "Badger Tuff",
-            "Striker's Battlegear",
-            "Petrov Defense Group",
-            "Alps Summit Armaments"
+            "Providence Defense",
+            "smg",
+            "Walker, Harris & Co.",
+            "shotgun",
+            "Ortiz: Reficere"
           ],
-          "prototype_gear_cache": "mask",
+          "prototype_gear_cache": "backpack",
           "prototype_weapon_cache": "mmr"
         },
         {
           "day": "2026-09-23",
           "target_loot": [
-            "Badger Tuff",
-            "Habsburg Guard",
-            "Alps Summit Armaments",
-            "Future Initiative",
-            "mask"
+            "chest",
+            "Tipping Scales",
+            "5.11 Tactical",
+            "Grupo Sombra S.A.",
+            "Tip of the Spear"
           ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "shotgun"
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "mmr"
         },
         {
           "day": "2026-09-24",
           "target_loot": [
-            "Tipping Scales",
-            "Shiny Monkey Gear",
-            "Imminence Armaments",
-            "Core Strength",
-            "Breaking Point"
+            "True Patriot",
+            "Breaking Point",
+            "mask",
+            "Eclipse Protocol",
+            "smg"
+          ],
+          "prototype_gear_cache": "holster",
+          "prototype_weapon_cache": "pistol"
+        },
+        {
+          "day": "2026-09-25",
+          "target_loot": [
+            "Ortiz: Exuro",
+            "chest",
+            "Electrique",
+            "Urban Lookout",
+            "China Light Industries Corporation"
           ],
           "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg"
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
