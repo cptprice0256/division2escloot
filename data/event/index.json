@@ -13,14 +13,26 @@
         {
           "day": "2026-09-29",
           "target_loot": [
-            "Ember Engine",
-            "Badger Tuff",
-            "Striker's Battlegear",
-            "Petrov Defense Group",
-            "Alps Summit Armaments"
+            "Lengmo",
+            "Electrique",
+            "Heartbreaker",
+            "mask",
+            "Uzina Getica"
+          ],
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-09-30",
+          "target_loot": [
+            "Imminence Armaments",
+            "Measured Assembly",
+            "Hana-U Corporation",
+            "Electrique",
+            "holster"
           ],
           "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "mmr"
+          "prototype_weapon_cache": "shotgun"
         }
       ]
     }
