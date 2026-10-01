@@ -13,25 +13,25 @@
         {
           "day": "2026-09-29",
           "target_loot": [
-            "Lengmo",
-            "Electrique",
-            "Heartbreaker",
-            "mask",
-            "Uzina Getica"
+            "Ember Engine",
+            "Badger Tuff",
+            "Striker's Battlegear",
+            "Petrov Defense Group",
+            "Alps Summit Armaments"
           ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "mmr"
         },
         {
           "day": "2026-09-30",
           "target_loot": [
-            "Imminence Armaments",
-            "Measured Assembly",
-            "Hana-U Corporation",
-            "Electrique",
-            "holster"
+            "Badger Tuff",
+            "Habsburg Guard",
+            "Alps Summit Armaments",
+            "Future Initiative",
+            "mask"
           ],
-          "prototype_gear_cache": "mask",
+          "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "shotgun"
         }
       ]
