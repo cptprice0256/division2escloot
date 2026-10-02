@@ -13,38 +13,50 @@
         {
           "day": "2026-09-29",
           "target_loot": [
-            "Ember Engine",
-            "Badger Tuff",
-            "Striker's Battlegear",
-            "Petrov Defense Group",
-            "Alps Summit Armaments"
+            "Lengmo",
+            "Electrique",
+            "Heartbreaker",
+            "mask",
+            "Uzina Getica"
           ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "mmr"
+          "prototype_gear_cache": "backpack",
+          "prototype_weapon_cache": "rifle"
         },
         {
           "day": "2026-09-30",
           "target_loot": [
-            "Badger Tuff",
-            "Habsburg Guard",
-            "Alps Summit Armaments",
-            "Future Initiative",
-            "mask"
+            "Imminence Armaments",
+            "Measured Assembly",
+            "Hana-U Corporation",
+            "Electrique",
+            "holster"
           ],
-          "prototype_gear_cache": "holster",
+          "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "shotgun"
         },
         {
           "day": "2026-10-01",
           "target_loot": [
-            "Tipping Scales",
-            "Shiny Monkey Gear",
-            "Imminence Armaments",
-            "Core Strength",
-            "Breaking Point"
+            "Rigger",
+            "Brazos de Arcabuz",
+            "Legatus S.p.A.",
+            "Gear MOD",
+            "shotgun"
           ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg"
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "rifle"
+        },
+        {
+          "day": "2026-10-02",
+          "target_loot": [
+            "Unit Alloys",
+            "Tipping Scales",
+            "Concentrated Company",
+            "Skill MOD",
+            "Core Strength"
+          ],
+          "prototype_gear_cache": "kneepads",
+          "prototype_weapon_cache": "smg"
         }
       ]
     }
