@@ -13,50 +13,62 @@
         {
           "day": "2026-09-29",
           "target_loot": [
-            "Lengmo",
-            "Electrique",
-            "Heartbreaker",
-            "mask",
-            "Uzina Getica"
+            "Ember Engine",
+            "Badger Tuff",
+            "Striker's Battlegear",
+            "Petrov Defense Group",
+            "Alps Summit Armaments"
           ],
-          "prototype_gear_cache": "backpack",
-          "prototype_weapon_cache": "rifle"
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "mmr"
         },
         {
           "day": "2026-09-30",
           "target_loot": [
-            "Imminence Armaments",
-            "Measured Assembly",
-            "Hana-U Corporation",
-            "Electrique",
-            "holster"
+            "Badger Tuff",
+            "Habsburg Guard",
+            "Alps Summit Armaments",
+            "Future Initiative",
+            "mask"
           ],
-          "prototype_gear_cache": "mask",
+          "prototype_gear_cache": "holster",
           "prototype_weapon_cache": "shotgun"
         },
         {
           "day": "2026-10-01",
           "target_loot": [
-            "Rigger",
-            "Brazos de Arcabuz",
-            "Legatus S.p.A.",
-            "Gear MOD",
-            "shotgun"
+            "Tipping Scales",
+            "Shiny Monkey Gear",
+            "Imminence Armaments",
+            "Core Strength",
+            "Breaking Point"
           ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "rifle"
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "lmg"
         },
         {
           "day": "2026-10-02",
           "target_loot": [
             "Unit Alloys",
-            "Tipping Scales",
-            "Concentrated Company",
-            "Skill MOD",
-            "Core Strength"
+            "smg",
+            "Sokolov Concern",
+            "China Light Industries Corporation",
+            "Royal Works"
           ],
           "prototype_gear_cache": "kneepads",
           "prototype_weapon_cache": "smg"
+        },
+        {
+          "day": "2026-10-03",
+          "target_loot": [
+            "Gila Guard",
+            "Royal Works",
+            "Cavalier",
+            "Future Initiative",
+            "Eclipse Protocol"
+          ],
+          "prototype_gear_cache": "chest",
+          "prototype_weapon_cache": "mmr"
         }
       ]
     }
