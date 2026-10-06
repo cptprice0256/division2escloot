@@ -1,7 +1,7 @@
 {
   "Escalation": [
     {
-      "week": "2026-09-29",
+      "week": "2026-10-06",
       "missions": [
         "The Art Museum",
         "Capitol Building",
@@ -11,79 +11,6 @@
       ],
       "target_loot_by_day": [
         {
-          "day": "2026-09-29",
-          "target_loot": [
-            "Ember Engine",
-            "Badger Tuff",
-            "Striker's Battlegear",
-            "Petrov Defense Group",
-            "Alps Summit Armaments"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-09-30",
-          "target_loot": [
-            "Badger Tuff",
-            "Habsburg Guard",
-            "Alps Summit Armaments",
-            "Future Initiative",
-            "mask"
-          ],
-          "prototype_gear_cache": "holster",
-          "prototype_weapon_cache": "shotgun"
-        },
-        {
-          "day": "2026-10-01",
-          "target_loot": [
-            "Tipping Scales",
-            "Shiny Monkey Gear",
-            "Imminence Armaments",
-            "Core Strength",
-            "Breaking Point"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg"
-        },
-        {
-          "day": "2026-10-02",
-          "target_loot": [
-            "Unit Alloys",
-            "smg",
-            "Sokolov Concern",
-            "China Light Industries Corporation",
-            "Royal Works"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "smg"
-        },
-        {
-          "day": "2026-10-03",
-          "target_loot": [
-            "Gila Guard",
-            "Royal Works",
-            "Cavalier",
-            "Future Initiative",
-            "Eclipse Protocol"
-          ],
-          "prototype_gear_cache": "chest",
-          "prototype_weapon_cache": "mmr"
-        },
-        {
-          "day": "2026-10-04",
-          "target_loot": [
-            "chest",
-            "Legatus S.p.A.",
-            "Aegis",
-            "Hotshot",
-            "Tip of the Spear"
-          ],
-          "prototype_gear_cache": "kneepads",
-          "prototype_weapon_cache": "rifle"
-        },
-        {
-          "day": "2026-10-05",
           "target_loot": [
             "Hana-U Corporation",
             "Future Initiative",
@@ -92,7 +19,8 @@
             "pistol"
           ],
           "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg"
+          "prototype_weapon_cache": "lmg",
+          "day": "2026-10-06"
         }
       ]
     }
