@@ -57,6 +57,18 @@
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "lmg",
           "day": "2026-10-09"
+        },
+        {
+          "target_loot": [
+            "Hana-U Corporation",
+            "Future Initiative",
+            "Core Strength",
+            "Brazos de Arcabuz",
+            "pistol"
+          ],
+          "prototype_gear_cache": "mask",
+          "prototype_weapon_cache": "lmg",
+          "day": "2026-10-10"
         }
       ]
     }
