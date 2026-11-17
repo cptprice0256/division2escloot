@@ -1,7 +1,7 @@
 {
   "Escalation": [
     {
-      "week": "2026-11-10",
+      "week": "2026-11-17",
       "missions": [
         "The Art Museum",
         "Capitol Building",
@@ -20,79 +20,7 @@
           ],
           "prototype_gear_cache": "mask",
           "prototype_weapon_cache": "lmg",
-          "day": "2026-11-10"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-11"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-12"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-13"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-14"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-15"
-        },
-        {
-          "target_loot": [
-            "Hana-U Corporation",
-            "Future Initiative",
-            "Core Strength",
-            "Brazos de Arcabuz",
-            "pistol"
-          ],
-          "prototype_gear_cache": "mask",
-          "prototype_weapon_cache": "lmg",
-          "day": "2026-11-16"
+          "day": "2026-11-17"
         }
       ]
     }
